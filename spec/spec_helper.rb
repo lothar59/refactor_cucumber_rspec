@@ -1,0 +1,1 @@
+require 'treatment_array'
